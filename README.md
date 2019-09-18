@@ -1,5 +1,9 @@
 # Motion-Capture-App
-The CS-3398 Mutant team is composed of Rick Rodriguez, Bo Heyse, Luis Tovar, Tyler Perkins, and Hunter Anderson
+- The CS-3398 Mutant team is composed of Rick Rodriguez, Bo Heyse, Luis Tovar, Tyler Perkins, and Hunter Anderson. 
+- The goal of this project is to use an Inertial Measurement Unit and the data it provides to create an iOS application
+that controls the sensor remotely via a Bluetooth connection in order to visualize the data when attached to an object. We want to be able to grab the data off the sensor via the app, format it, and feed it into a virtual environment like unity or matlab to replicate the object's motion through space.
+- We are making this for any user that wants to record the motion of an object. 
+-  
 
 
 ## Table of contents
