@@ -23,20 +23,28 @@ With this app, one could track the movement they would like to implement into a 
 ![Example screenshot](https://i.pinimg.com/originals/28/76/5b/28765baa8d8def1e6efb9b9425347ae6.jpg)
 
 ## Technologies
-* Arduino
+* Arduino IDE
+* SparkFun Razor IMU M0 https://www.sparkfun.com/products/14001
+* Open-Source Sensor Fusion Algorithm
+* iOS developer tools and libraries (Xcode --> CoreBluetooth)
 
 ## Setup
-Connect the arduino to the object you're looking to record, after recording the movement you can view the data on the app or upload it to another repository.
+Connect the arduino to the object you're looking to record, after recording the movement you can view the data on the app or upload it to another repository. Then you can use this data to create a 3D visualization. 
 `
 ## Features
 List of features ready and TODOs for future development
 * GUI: Basic GUI for the App
 * CLOUD SAVER: Lets a user store the information to the cloud for future use
 * RECORD: Lets the user start recording and stop recording the movment of the sensor
+* Unity/Matlab Integration
 
 
 To-do list:
 * Get fimiliar with the development tools to start making the app
+* Get Xcode installed on a virtual box on all the Windows machine
+* Create the basic user interface
+* Get the app connected to a bluetooth module
+* Receiving and Saving the sensor data to files locally
 
 ## Status
 Project is: _in progress_
