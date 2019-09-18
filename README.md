@@ -17,38 +17,32 @@ that controls the sensor remotely via a Bluetooth connection in order to visuali
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+With this app, one could track the movement they would like to implement into a 3D enviornment. Data could also be captured by anyone wearing this sensor, and this data could help companies/professionals track their employees/users information.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](https://i.pinimg.com/originals/28/76/5b/28765baa8d8def1e6efb9b9425347ae6.jpg)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Arduino
 
 ## Setup
-Describe how to install / setup your local environement / add link to demo version.
-
-## Code Examples
-Show examples of usage:
-`put-your-code-here`
-
+Connect the arduino to the object you're looking to record, after recording the movement you can view the data on the app or upload it to another repository.
+`
 ## Features
 List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+* GUI: Basic GUI for the App
+* CLOUD SAVER: Lets a user store the information to the cloud for future use
+* RECORD: Lets the user start recording and stop recording the movment of the sensor
+
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Get fimiliar with the development tools to start making the app
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+Project is: _in progress_
 
 ## Inspiration
-Add here credits. Project inspired by..., based on...
+Project was thought about as a way to implement real world things into a virtual reality, this reality could be used for training and enhanced learning
 
 ## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+Layout created by [@flynerdpl](https://www.flynerd.pl/)
