@@ -1,6 +1,7 @@
 # Motion-Capture-App
-> Here goes your awesome project description!
-/
+The CS-3398 Mutant team is composed of Rick Rodriguez, Bo Heyse, Luis Tovar, Tyler Perkins, and Hunter Anderson
+
+
 ## Table of contents
 * [General info](#general-info)
 * [Screenshots](#screenshots)
