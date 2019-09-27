@@ -1,5 +1,5 @@
 //
-//  BluetoothSerial.swift (originally DZBluetoothSerialHandler.swift)
+//  BluetoothSerial.swift
 //  HM10 Serial
 //
 //  Created by Bo Heyse on 9/24/19.

@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		C2A9A01720337E10005DFB17 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A9A01620337E10005DFB17 /* AppDelegate.swift */; };
-		C2A9A01920337E10005DFB17 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A9A01820337E10005DFB17 /* ViewController.swift */; };
+		C2A9A01920337E10005DFB17 /* BluetoothSerial.swift in Sources */ = {isa = PBXBuildFile; fileRef = C2A9A01820337E10005DFB17 /* BluetoothSerial.swift */; };
 		C2A9A01C20337E10005DFB17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2A9A01A20337E10005DFB17 /* Main.storyboard */; };
 		C2A9A01E20337E10005DFB17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C2A9A01D20337E10005DFB17 /* Assets.xcassets */; };
 		C2A9A02120337E10005DFB17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C2A9A01F20337E10005DFB17 /* LaunchScreen.storyboard */; };
@@ -37,7 +37,7 @@
 /* Begin PBXFileReference section */
 		C2A9A01320337E10005DFB17 /* BLE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BLE.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C2A9A01620337E10005DFB17 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C2A9A01820337E10005DFB17 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C2A9A01820337E10005DFB17 /* BluetoothSerial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BluetoothSerial.swift; sourceTree = "<group>"; };
 		C2A9A01B20337E10005DFB17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C2A9A01D20337E10005DFB17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C2A9A02020337E10005DFB17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 			isa = PBXGroup;
 			children = (
 				C2A9A01620337E10005DFB17 /* AppDelegate.swift */,
-				C2A9A01820337E10005DFB17 /* ViewController.swift */,
+				C2A9A01820337E10005DFB17 /* BluetoothSerial.swift */,
 				C2A9A01A20337E10005DFB17 /* Main.storyboard */,
 				C2A9A01D20337E10005DFB17 /* Assets.xcassets */,
 				C2A9A01F20337E10005DFB17 /* LaunchScreen.storyboard */,
@@ -271,7 +271,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C2A9A01920337E10005DFB17 /* ViewController.swift in Sources */,
+				C2A9A01920337E10005DFB17 /* BluetoothSerial.swift in Sources */,
 				C2A9A01720337E10005DFB17 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
