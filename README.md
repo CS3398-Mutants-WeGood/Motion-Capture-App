@@ -44,7 +44,9 @@ List of features ready and TODOs for future development
 meant integrating Apple's CoreBluetooth framework and the functions necessary to establish connection and send bits/data over
 that bluetooth connection. I also created the view responsible for showing the Bluetooth devices and listing them in a table 
 in order for the user to get to choose which one they want to connect to. The artifact/checkin of the code can be found during two separate check ins on the Dev branch at the following links: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/f00ba657d456311f809af161218327f09f42c2a1 
-&& https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/6768626935deae30575d3d15eca89c520d79675e . 
+&& https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/6768626935deae30575d3d15eca89c520d79675e .
+
+* Luis Tovar: I implemented the GUI and functionality of the start and stop buttons for our application. This required using Apple's tools to create functionality for the recording and storing of information, and using these functions together with the bluetooth module. Coupled with these function implementations I also added the ability to view and sort through the files recorded. The code can be viewed on the dev branch on the following link: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/6ac1ae084b311fa83674f226c81e2bf8dc96c7d2 
 
 
 To-do list:
