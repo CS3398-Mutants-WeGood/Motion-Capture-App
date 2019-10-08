@@ -20,6 +20,7 @@ that controls the sensor remotely via a Bluetooth connection in order to visuali
 With this app, one could track the movement they would like to implement into a 3D enviornment. Data could also be captured by anyone wearing this sensor, and this data could help companies/professionals track their employees/users information.
 
 ## Screenshots
+/Users/Heyseb1/Desktop/Motion_Cap_pic.png
 ![Example screenshot](https://i.pinimg.com/originals/28/76/5b/28765baa8d8def1e6efb9b9425347ae6.jpg)
 
 ## Technologies
@@ -27,6 +28,7 @@ With this app, one could track the movement they would like to implement into a 
 * SparkFun Razor IMU M0 https://www.sparkfun.com/products/14001
 * Open-Source Sensor Fusion Algorithm
 * iOS developer tools and libraries (Xcode --> CoreBluetooth)
+* Google Drive API
 
 ## Setup
 Connect the arduino to the object you're looking to record, after recording the movement you can view the data on the app or upload it to another repository. Then you can use this data to create a 3D visualization. 
