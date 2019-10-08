@@ -31,12 +31,20 @@ With this app, one could track the movement they would like to implement into a 
 ## Setup
 Connect the arduino to the object you're looking to record, after recording the movement you can view the data on the app or upload it to another repository. Then you can use this data to create a 3D visualization. 
 `
-## Features
+## Features (Overall and by sprint)
 List of features ready and TODOs for future development
 * GUI: Basic GUI for the App
+* RECORD: Lets the user start recording and stop recording the movment of the motion sensor
 * CLOUD SAVER: Lets a user store the information to the cloud for future use
-* RECORD: Lets the user start recording and stop recording the movment of the sensor
-* Unity/Matlab Integration
+* Automate Data download and processing/formatting from Cloud Storage
+* Unity/Matlab Integration to create a virtual simulation of the sensor. 
+
+### Sprint 1:
+* Bo Heyse: I implemented the functionality necessary to communicate with a Bluetooth module over an iOS application. This
+meant integrating Apple's CoreBluetooth framework and the functions necessary to establish connection and send bits/data over
+that bluetooth connection. I also created the view responsible for showing the Bluetooth devices and listing them in a table 
+in order for the user to get to choose which one they want to connect to. The artifact/checkin of the code can be found during two separate check ins on the Dev branch at the following links: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/f00ba657d456311f809af161218327f09f42c2a1 
+&& https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/6768626935deae30575d3d15eca89c520d79675e . 
 
 
 To-do list:
@@ -48,6 +56,12 @@ To-do list:
 
 ## Status
 Project is: _in progress_
+
+Post Sprint 1:
+The project in its current state allows for the mobile application on the phone function as a remote control
+to start and stop the motion sensor. Also, the phone is able to act as an intermediate repository
+which stores the data that is coming off the sensor and saves the data into a file that can be uploaded to a google drive.
+The app can also view the data that was just recorded in a screen that displays all the data.
 
 ## Inspiration
 Project was thought about as a way to implement real world things into a virtual reality, this reality could be used for training and enhanced learning
