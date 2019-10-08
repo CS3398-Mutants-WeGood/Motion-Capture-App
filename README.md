@@ -48,7 +48,7 @@ in order for the user to get to choose which one they want to connect to. The ar
 
 * Luis Tovar: I implemented the GUI and functionality of the start and stop buttons for our application. This required using Apple's tools to create functionality for the recording and storing of information, and using these functions together with the bluetooth module. Coupled with these function implementations I also added the ability to view and sort through the files recorded. The code can be viewed on the dev branch on the following link: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/6ac1ae084b311fa83674f226c81e2bf8dc96c7d2 
 
-* Rick Rodriguez: I implemented the Arduino sensor functionality that allows the use of its accelerometer, gyroscope, and magnetometer to track an object's movement through 3D space.  This data is sampled at an adjustable rate and is output to a text file on the Arduino's SD card.  That data is then relayed to the remote iPhone via Bluetooth.  The sensor functionality code is available here: 826e099513a0ddf27210de6f4026b45c1e620ae6
+* Rick Rodriguez: I implemented the Arduino sensor functionality that allows the use of its accelerometer, gyroscope, and magnetometer to track an object's movement through 3D space.  This data is sampled at an adjustable rate and is output to a text file on the Arduino's SD card.  That data is then relayed to the remote iPhone via Bluetooth.  The sensor functionality code is available here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/826e099513a0ddf27210de6f4026b45c1e620ae6
 
 
 To-do list:
