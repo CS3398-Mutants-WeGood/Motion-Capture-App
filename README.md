@@ -33,7 +33,7 @@ Connect the arduino to the object you're looking to record, after recording the 
 `
 ## Features
 List of features ready and TODOs for future development
-* GUI: Basic GUI for the App
+* GUI: Basic GUI to easily connect to the device, control when to capture data, and review its data. -Hunter Anderson
 * CLOUD SAVER: Lets a user store the information to the cloud for future use
 * RECORD: Lets the user start recording and stop recording the movment of the sensor
 * Unity/Matlab Integration
