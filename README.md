@@ -21,7 +21,7 @@ With this app, one could track the movement they would like to implement into a 
 
 ## Screenshots
 
-![Example screenshot](/Users/Heyseb1/Desktop/Motion_Cap_pic.png)
+![Example screenshot](https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/blob/master/Motion_Cap_pic.png)
 
 ## Technologies
 * Arduino IDE
