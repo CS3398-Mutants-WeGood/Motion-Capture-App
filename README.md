@@ -67,7 +67,12 @@ Post Sprint 1:
 The project in its current state allows for the mobile application on the phone function as a remote control
 to start and stop the motion sensor. Also, the phone is able to act as an intermediate repository
 which stores the data that is coming off the sensor and saves the data into a file that can be uploaded to a google drive.
-The app can also view the data that was just recorded in a screen that displays all the data.
+The app can also view the data that was just recorded in a screen that displays all the data. The next steps that will be taken for each team member is as follows:
+* Bo Heyse: Allow connection to multiple devices 
+* Luis Tovar: Redesign "Connect Devices Screen" to show the multiple connections and connection status
+* Rick Rodriguez: Implement Google Drive API
+* Tyler Perkins: Automatically increment recording sessions when the stop button is pushed
+* Hunter Anderson: Create user interface for Upload Files screen 
 
 ## Inspiration
 Project was thought about as a way to implement real world things into a virtual reality, this reality could be used for training and enhanced learning
