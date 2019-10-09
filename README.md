@@ -19,9 +19,9 @@ that controls the sensor remotely via a Bluetooth connection in order to visuali
 ## General info
 With this app, one could track the movement they would like to implement into a 3D enviornment. Data could also be captured by anyone wearing this sensor, and this data could help companies/professionals track their employees/users information.
 
-## Project Overview
-
-![Project Overview](https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/blob/master/Motion_Cap_pic.png)
+## Screenshots
+/Users/Heyseb1/Desktop/Motion_Cap_pic.png
+![Example screenshot](https://i.pinimg.com/originals/28/76/5b/28765baa8d8def1e6efb9b9425347ae6.jpg)
 
 ## Technologies
 * Arduino IDE
@@ -52,6 +52,7 @@ in order for the user to get to choose which one they want to connect to. The ar
 
 * Rick Rodriguez: I implemented the Arduino sensor functionality that allows the use of its accelerometer, gyroscope, and magnetometer to track an object's movement through 3D space.  This data is sampled at an adjustable rate and is output to a text file on the Arduino's SD card.  That data is then relayed to the remote iPhone via Bluetooth.  The sensor functionality code is available here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/826e099513a0ddf27210de6f4026b45c1e620ae6
 
+* Tyler Perkins: I implemented the data viewing functionality within the ios app. This included taking the raw data supplied from the arduino and displaying it in a readable manner. The data is divided in to different categories including accelerometer, gyroscope, and magnetometer. The data is accessible through the UI and there is a data menu that allows the user to select which sensor to view the date from. The code is available here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/864d5bd63a850bdac46da669616ddcf436d9abb0
 
 To-do list:
 * Get fimiliar with the development tools to start making the app
@@ -67,12 +68,7 @@ Post Sprint 1:
 The project in its current state allows for the mobile application on the phone function as a remote control
 to start and stop the motion sensor. Also, the phone is able to act as an intermediate repository
 which stores the data that is coming off the sensor and saves the data into a file that can be uploaded to a google drive.
-The app can also view the data that was just recorded in a screen that displays all the data. The next steps that will be taken for each team member is as follows:
-* Bo Heyse: Allow connection to multiple devices 
-* Luis Tovar: Redesign "Connect Devices Screen" to show the multiple connections and connection status
-* Rick Rodriguez: Implement Google Drive API
-* Tyler Perkins: Automatically increment recording sessions when the stop button is pushed
-* Hunter Anderson: Create user interface for Upload Files screen 
+The app can also view the data that was just recorded in a screen that displays all the data.
 
 ## Inspiration
 Project was thought about as a way to implement real world things into a virtual reality, this reality could be used for training and enhanced learning
