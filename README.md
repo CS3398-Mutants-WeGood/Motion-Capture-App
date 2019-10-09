@@ -19,9 +19,9 @@ that controls the sensor remotely via a Bluetooth connection in order to visuali
 ## General info
 With this app, one could track the movement they would like to implement into a 3D enviornment. Data could also be captured by anyone wearing this sensor, and this data could help companies/professionals track their employees/users information.
 
-## Screenshots
+## Project Overview
 
-![Example screenshot](https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/blob/master/Motion_Cap_pic.png)
+![Project Overview](https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/blob/master/Motion_Cap_pic.png)
 
 ## Technologies
 * Arduino IDE
