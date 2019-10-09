@@ -8,7 +8,7 @@ that controls the sensor remotely via a Bluetooth connection in order to visuali
 
 ## Table of contents
 * [General info](#general-info)
-* [Screenshots](#screenshots)
+* [Project Goal (Graphic)](#project-goal)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -19,9 +19,9 @@ that controls the sensor remotely via a Bluetooth connection in order to visuali
 ## General info
 With this app, one could track the movement they would like to implement into a 3D enviornment. Data could also be captured by anyone wearing this sensor, and this data could help companies/professionals track their employees/users information.
 
-## Screenshots
-/Users/Heyseb1/Desktop/Motion_Cap_pic.png
-![Example screenshot](https://i.pinimg.com/originals/28/76/5b/28765baa8d8def1e6efb9b9425347ae6.jpg)
+## Project Goal
+
+![Goal](https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/blob/master/Motion_Cap_pic.png)
 
 ## Technologies
 * Arduino IDE
@@ -69,6 +69,12 @@ The project in its current state allows for the mobile application on the phone 
 to start and stop the motion sensor. Also, the phone is able to act as an intermediate repository
 which stores the data that is coming off the sensor and saves the data into a file that can be uploaded to a google drive.
 The app can also view the data that was just recorded in a screen that displays all the data.
+
+* Bo Heyse: Allow connection to multiple devices
+* Luis Tovar: Redesign "Connect Devices Screen" to show the multiple connections and connection status
+* Rick Rodriguez: Implement Google Drive API
+* Tyler Perkins: Automatically increment recording sessions when the stop button is pushed
+* Hunter Anderson: Create user interface for Upload Files screen
 
 ## Inspiration
 Project was thought about as a way to implement real world things into a virtual reality, this reality could be used for training and enhanced learning
