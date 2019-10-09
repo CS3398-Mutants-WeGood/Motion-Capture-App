@@ -53,6 +53,7 @@ in order for the user to get to choose which one they want to connect to. The ar
 * Rick Rodriguez: I implemented the Arduino sensor functionality that allows the use of its accelerometer, gyroscope, and magnetometer to track an object's movement through 3D space.  This data is sampled at an adjustable rate and is output to a text file on the Arduino's SD card.  That data is then relayed to the remote iPhone via Bluetooth.  The sensor functionality code is available here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/826e099513a0ddf27210de6f4026b45c1e620ae6
 
 * Tyler Perkins: I implemented the data viewing functionality within the ios app. This included taking the raw data supplied from the arduino and displaying it in a readable manner. The data is divided in to different categories including accelerometer, gyroscope, and magnetometer. The data is accessible through the UI and there is a data menu that allows the user to select which sensor to view the date from. The code is available here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/864d5bd63a850bdac46da669616ddcf436d9abb0
+* Hunter Anderson: I made the GUI for the app. My code is here and also maintained within the storyboard of the project: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/8459676a70eaa938cf9bf952256a999fa15632b0
 
 To-do list:
 * Get fimiliar with the development tools to start making the app
