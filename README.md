@@ -55,6 +55,9 @@ in order for the user to get to choose which one they want to connect to. The ar
 * Tyler Perkins: I implemented the data viewing functionality within the ios app. This included taking the raw data supplied from the arduino and displaying it in a readable manner. The data is divided in to different categories including accelerometer, gyroscope, and magnetometer. The data is accessible through the UI and there is a data menu that allows the user to select which sensor to view the date from. The code is available here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/864d5bd63a850bdac46da669616ddcf436d9abb0
 * Hunter Anderson: I made the GUI for the app. My code is here and also maintained within the storyboard of the project: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/8459676a70eaa938cf9bf952256a999fa15632b0
 
+### Sprint 2:
+* Luis Tovar: I updated the device connection screen in this sprint to allow for multiple inputs as well as show a constant connection status for all devices. The code can be viewed here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/0128f5fc913d0d4e9342ea14f19bd081f0df69ce
+
 To-do list:
 * Get fimiliar with the development tools to start making the app
 * Get Xcode installed on a virtual box on all the Windows machine
