@@ -77,6 +77,16 @@ The app can also view the data that was just recorded in a screen that displays 
 * Tyler Perkins: Automatically increment recording sessions when the stop button is pushed
 * Hunter Anderson: Create user interface for Upload Files screen
 
+Post Sprint 2:
+The project in its current state allows for the mobile application on the phone function as a remote control
+to start and stop the motion sensor, automatically increment recording sessions to allow for multiple sessions. The app also stores all data locally on the app with the ability to upload the data to Google Drive. From here, the data can be transferred from Google Drive to allow the data to be processed and ready for use in a 3D simulation software.
+
+* Bo Heyse: Improve UI of 
+* Luis Tovar: Script to process data
+* Rick Rodriguez: UI for accessing data on the google drive.
+* Tyler Perkins: Create unity object to apply data to.
+* Hunter Anderson: Push data from a file to Unity object
+
 ## Inspiration
 Project was thought about as a way to implement real world things into a virtual reality, this reality could be used for training and enhanced learning
 
