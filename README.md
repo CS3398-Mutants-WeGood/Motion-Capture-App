@@ -61,6 +61,12 @@ in order for the user to get to choose which one they want to connect to. The ar
 * Rick Rodriguez: I implemented functionality that allows the mobile app to communicate with Google Drive by using the Google Drive API.  Our application allows the user to log in to a Google Drive account and upload recorded data sessions to that Drive account via their mobile device.  Relevant files can be found here:
 https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/880ecbb86d14980b17baae02d183c998f94dd59f
 
+* Bo Heyse: I modified Apple's CoreBluetooth framework to allow for multiple Bluetooth devices to be connected to the application so a user can record multiple points of motion. I also modified the listing table to allow all connections to be shown and for the ability to connect to all devices at once or connect to only one. The code that was checked in can be viewed here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/6767f8f8c996de0d3259f017b0abd2e79b98f78e
+
+* Hunter Anderson:
+
+* Tyler Perkins:
+
 To-do list:
 * Get fimiliar with the development tools to start making the app
 * Get Xcode installed on a virtual box on all the Windows machine
