@@ -58,6 +58,9 @@ in order for the user to get to choose which one they want to connect to. The ar
 ### Sprint 2:
 * Luis Tovar: I updated the device connection screen in this sprint to allow for multiple inputs as well as show a constant connection status for all devices. The code can be viewed here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/0128f5fc913d0d4e9342ea14f19bd081f0df69ce
 
+* Rick Rodriguez: I implemented functionality that allows the mobile app to communicate with Google Drive by using the Google Drive API.  Our application allows the user to log in to a Google Drive account and upload recorded data sessions to that Drive account via their mobile device.  Relevant files can be found here:
+https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/880ecbb86d14980b17baae02d183c998f94dd59f
+
 To-do list:
 * Get fimiliar with the development tools to start making the app
 * Get Xcode installed on a virtual box on all the Windows machine
