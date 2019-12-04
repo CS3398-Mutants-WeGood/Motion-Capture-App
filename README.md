@@ -74,6 +74,11 @@ To-do list:
 * Get the app connected to a bluetooth module
 * Receiving and Saving the sensor data to files locally
 
+### Sprint 3:
+
+* Tyler Perkins: I researched "processing" environment and added code that allowed a 3D object to be imported. This code can be viewed here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/34e314159624c7e7731e62cebdb1e51f9901d83c
+
+
 ## Status
 Project is: _in progress_
 
