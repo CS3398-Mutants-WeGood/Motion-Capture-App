@@ -63,7 +63,7 @@ https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/880ecbb86d149
 
 * Bo Heyse: I modified Apple's CoreBluetooth framework to allow for multiple Bluetooth devices to be connected to the application so a user can record multiple points of motion. I also modified the listing table to allow all connections to be shown and for the ability to connect to all devices at once or connect to only one. The code that was checked in can be viewed here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/6767f8f8c996de0d3259f017b0abd2e79b98f78e
 
-* Hunter Anderson:
+* Hunter Anderson: I enhanced user experience with GUI and added additional menus to accomadate the addition of other features. Coded parts for the google drive interface. Code can be found here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/1bc18c22d3b561712a6d8a96e3afd5d91ab7c909
 
 * Tyler Perkins:
 
@@ -81,6 +81,8 @@ To-do list:
 * Luis Tovar: I implemented the 3D enviornment and several GUI details for the script. Also added the audio to the start and end of the recording. The code for this can be found here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/e2933015c63dea5227cd3f47dc324d730dd38433
 
 * Rick Rodriguez: I implemented code to automatically download a .txt file from the user's Google Drive account and format it for use in Processing to allow for visualization of the sensor's data.  The code can be found at https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/4b5cee9cc327172382616bc935a5dd120d15959c
+
+* Hunter Anderson: I researched the output of a file in which we could use to manipulate a 3D object. Developed code to export data into an obj format. Code can be found here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/c0201ce1a25969365f2d6bd335d5922628518f93
 
 ## Status
 Project is: _in progress_
