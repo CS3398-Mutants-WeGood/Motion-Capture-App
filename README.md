@@ -80,6 +80,8 @@ To-do list:
 
 * Luis Tovar: I implemented the 3D enviornment and several GUI details for the script. Also added the audio to the start and end of the recording. The code for this can be found here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/e2933015c63dea5227cd3f47dc324d730dd38433
 
+* Rick Rodriguez: I implemented code to automatically download a .txt file from the user's Google Drive account and format it for use in Processing to allow for visualization of the sensor's data.  The code can be found at https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/4b5cee9cc327172382616bc935a5dd120d15959c
+
 ## Status
 Project is: _in progress_
 
