@@ -78,6 +78,7 @@ To-do list:
 
 * Tyler Perkins: I researched "processing" environment and added code that allowed a 3D object to be imported. This code can be viewed here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/34e314159624c7e7731e62cebdb1e51f9901d83c
 
+* Luis Tovar: I implemented the 3D enviornment and several GUI details for the script. Also added the audio to the start and end of the recording. The code for this can be found here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/e2933015c63dea5227cd3f47dc324d730dd38433
 
 ## Status
 Project is: _in progress_
