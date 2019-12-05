@@ -84,8 +84,10 @@ To-do list:
 
 * Hunter Anderson: I researched the output of a file in which we could use to manipulate a 3D object. Developed code to export data into an obj format. Code can be found here: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/c0201ce1a25969365f2d6bd335d5922628518f93
 
+* Bo Heyse: I implemented code that would improve the UI and also place the data file into the exact space we needed it to run the software simulation. The code can be found at: https://github.com/CS3398-Mutants-WeGood/Motion-Capture-App/commit/4b5cee9cc327172382616bc935a5dd120d15959c
+
 ## Status
-Project is: _in progress_
+Project is: Complete
 
 Post Sprint 1:
 The project in its current state allows for the mobile application on the phone function as a remote control
@@ -106,6 +108,8 @@ Post Sprint 2: The project in its current state allows for the mobile applicatio
 * Rick Rodriguez: UI for accessing data on the google drive.
 * Tyler Perkins: Create unity object to apply data to.
 * Hunter Anderson: Push data from a file to Unity object
+
+Post Sprint 3: The team managed to complete the objective of the project and provide a successful demo to our class mates.
 
 ## Inspiration
 Project was thought about as a way to implement real world things into a virtual reality, this reality could be used for training and enhanced learning
